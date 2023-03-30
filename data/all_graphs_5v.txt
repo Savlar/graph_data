@@ -1,0 +1,374 @@
+
+Generated graph:
+1 -> 
+2 -> 
+3 -> 
+4 -> 
+5 -> 
+
+Edges: 0
+Partial symmetries: 1546
+Non-isomorphic induced subgraphs: 5
+
+Generated graph:
+1 -> 5
+2 -> 
+3 -> 
+4 -> 
+5 -> 1
+
+Edges: 1
+Partial symmetries: 646
+Non-isomorphic induced subgraphs: 8
+
+Generated graph:
+1 -> 5
+2 -> 5
+3 -> 
+4 -> 
+5 -> 1 2
+
+Edges: 2
+Partial symmetries: 398
+Non-isomorphic induced subgraphs: 10
+
+Generated graph:
+1 -> 5
+2 -> 5
+3 -> 5
+4 -> 
+5 -> 1 2 3
+
+Edges: 3
+Partial symmetries: 328
+Non-isomorphic induced subgraphs: 10
+
+Generated graph:
+1 -> 5
+2 -> 5
+3 -> 5
+4 -> 5
+5 -> 1 2 3 4
+
+Edges: 4
+Partial symmetries: 442
+Non-isomorphic induced subgraphs: 8
+
+Generated graph:
+1 -> 4
+2 -> 5
+3 -> 
+4 -> 1
+5 -> 2
+
+Edges: 2
+Partial symmetries: 410
+Non-isomorphic induced subgraphs: 8
+
+Generated graph:
+1 -> 4
+2 -> 5
+3 -> 5
+4 -> 1
+5 -> 2 3
+
+Edges: 3
+Partial symmetries: 314
+Non-isomorphic induced subgraphs: 10
+
+Generated graph:
+1 -> 4 5
+2 -> 
+3 -> 
+4 -> 1 5
+5 -> 1 4
+
+Edges: 3
+Partial symmetries: 346
+Non-isomorphic induced subgraphs: 9
+
+Generated graph:
+1 -> 4 5
+2 -> 5
+3 -> 
+4 -> 1
+5 -> 1 2
+
+Edges: 3
+Partial symmetries: 282
+Non-isomorphic induced subgraphs: 10
+
+Generated graph:
+1 -> 4 5
+2 -> 5
+3 -> 
+4 -> 1 5
+5 -> 1 2 4
+
+Edges: 4
+Partial symmetries: 240
+Non-isomorphic induced subgraphs: 12
+
+Generated graph:
+1 -> 4 5
+2 -> 5
+3 -> 5
+4 -> 1
+5 -> 1 2 3
+
+Edges: 4
+Partial symmetries: 240
+Non-isomorphic induced subgraphs: 11
+
+Generated graph:
+1 -> 4 5
+2 -> 5
+3 -> 5
+4 -> 1 5
+5 -> 1 2 3 4
+
+Edges: 5
+Partial symmetries: 254
+Non-isomorphic induced subgraphs: 11
+
+Generated graph:
+1 -> 4 5
+2 -> 4
+3 -> 5
+4 -> 1 2 5
+5 -> 1 3 4
+
+Edges: 5
+Partial symmetries: 222
+Non-isomorphic induced subgraphs: 11
+
+Generated graph:
+1 -> 4 5
+2 -> 4 5
+3 -> 
+4 -> 1 2
+5 -> 1 2
+
+Edges: 4
+Partial symmetries: 266
+Non-isomorphic induced subgraphs: 9
+
+Generated graph:
+1 -> 4 5
+2 -> 4 5
+3 -> 
+4 -> 1 2 5
+5 -> 1 2 4
+
+Edges: 5
+Partial symmetries: 254
+Non-isomorphic induced subgraphs: 11
+
+Generated graph:
+1 -> 4 5
+2 -> 4 5
+3 -> 5
+4 -> 1 2
+5 -> 1 2 3
+
+Edges: 5
+Partial symmetries: 248
+Non-isomorphic induced subgraphs: 11
+
+Generated graph:
+1 -> 4 5
+2 -> 4 5
+3 -> 5
+4 -> 1 2 5
+5 -> 1 2 3 4
+
+Edges: 6
+Partial symmetries: 240
+Non-isomorphic induced subgraphs: 12
+
+Generated graph:
+1 -> 4 5
+2 -> 4 5
+3 -> 4 5
+4 -> 1 2 3
+5 -> 1 2 3
+
+Edges: 6
+Partial symmetries: 406
+Non-isomorphic induced subgraphs: 8
+
+Generated graph:
+1 -> 4 5
+2 -> 4 5
+3 -> 4 5
+4 -> 1 2 3 5
+5 -> 1 2 3 4
+
+Edges: 7
+Partial symmetries: 346
+Non-isomorphic induced subgraphs: 9
+
+Generated graph:
+1 -> 3 5
+2 -> 4
+3 -> 1 5
+4 -> 2
+5 -> 1 3
+
+Edges: 4
+Partial symmetries: 406
+Non-isomorphic induced subgraphs: 8
+
+Generated graph:
+1 -> 3 5
+2 -> 4 5
+3 -> 1
+4 -> 2
+5 -> 1 2
+
+Edges: 4
+Partial symmetries: 252
+Non-isomorphic induced subgraphs: 10
+
+Generated graph:
+1 -> 3 5
+2 -> 4 5
+3 -> 1 5
+4 -> 2
+5 -> 1 2 3
+
+Edges: 5
+Partial symmetries: 248
+Non-isomorphic induced subgraphs: 11
+
+Generated graph:
+1 -> 3 5
+2 -> 4 5
+3 -> 1 5
+4 -> 2 5
+5 -> 1 2 3 4
+
+Edges: 6
+Partial symmetries: 266
+Non-isomorphic induced subgraphs: 9
+
+Generated graph:
+1 -> 3 4 5
+2 -> 
+3 -> 1 4 5
+4 -> 1 3 5
+5 -> 1 3 4
+
+Edges: 6
+Partial symmetries: 442
+Non-isomorphic induced subgraphs: 8
+
+Generated graph:
+1 -> 3 4 5
+2 -> 5
+3 -> 1 4 5
+4 -> 1 3
+5 -> 1 2 3
+
+Edges: 6
+Partial symmetries: 240
+Non-isomorphic induced subgraphs: 11
+
+Generated graph:
+1 -> 3 4 5
+2 -> 5
+3 -> 1 4 5
+4 -> 1 3 5
+5 -> 1 2 3 4
+
+Edges: 7
+Partial symmetries: 328
+Non-isomorphic induced subgraphs: 10
+
+Generated graph:
+1 -> 3 4
+2 -> 4 5
+3 -> 1 5
+4 -> 1 2
+5 -> 2 3
+
+Edges: 5
+Partial symmetries: 286
+Non-isomorphic induced subgraphs: 7
+
+Generated graph:
+1 -> 3 4 5
+2 -> 4 5
+3 -> 1 5
+4 -> 1 2
+5 -> 1 2 3
+
+Edges: 6
+Partial symmetries: 252
+Non-isomorphic induced subgraphs: 10
+
+Generated graph:
+1 -> 3 4 5
+2 -> 4 5
+3 -> 1 5
+4 -> 1 2 5
+5 -> 1 2 3 4
+
+Edges: 7
+Partial symmetries: 282
+Non-isomorphic induced subgraphs: 10
+
+Generated graph:
+1 -> 3 4 5
+2 -> 4 5
+3 -> 1 4 5
+4 -> 1 2 3 5
+5 -> 1 2 3 4
+
+Edges: 8
+Partial symmetries: 398
+Non-isomorphic induced subgraphs: 10
+
+Generated graph:
+1 -> 3 4 5
+2 -> 3 4 5
+3 -> 1 2 5
+4 -> 1 2
+5 -> 1 2 3
+
+Edges: 7
+Partial symmetries: 314
+Non-isomorphic induced subgraphs: 10
+
+Generated graph:
+1 -> 3 4 5
+2 -> 3 4 5
+3 -> 1 2 5
+4 -> 1 2 5
+5 -> 1 2 3 4
+
+Edges: 8
+Partial symmetries: 410
+Non-isomorphic induced subgraphs: 8
+
+Generated graph:
+1 -> 3 4 5
+2 -> 3 4 5
+3 -> 1 2 4 5
+4 -> 1 2 3 5
+5 -> 1 2 3 4
+
+Edges: 9
+Partial symmetries: 646
+Non-isomorphic induced subgraphs: 8
+
+Generated graph:
+1 -> 2 3 4 5
+2 -> 1 3 4 5
+3 -> 1 2 4 5
+4 -> 1 2 3 5
+5 -> 1 2 3 4
+
+Edges: 10
+Partial symmetries: 1546
+Non-isomorphic induced subgraphs: 5
