@@ -1,16 +1,8 @@
-
-Generated graph:
-1 -> 
-2 -> 
-
+{1: set(), 2: set()}
 Edges: 0
 Partial symmetries: 7
 Non-isomorphic induced subgraphs: 2
-
-Generated graph:
-1 -> 2
-2 -> 1
-
+{1: {2}, 2: {1}}
 Edges: 1
 Partial symmetries: 7
 Non-isomorphic induced subgraphs: 2

@@ -1,110 +1,44 @@
-
-Generated graph:
-1 -> 
-2 -> 
-3 -> 
-4 -> 
-
+{1: set(), 2: set(), 3: set(), 4: set()}
 Edges: 0
 Partial symmetries: 209
 Non-isomorphic induced subgraphs: 4
-
-Generated graph:
-1 -> 4
-2 -> 
-3 -> 
-4 -> 1
-
+{1: {4}, 2: set(), 3: set(), 4: {1}}
 Edges: 1
 Partial symmetries: 105
 Non-isomorphic induced subgraphs: 6
-
-Generated graph:
-1 -> 4
-2 -> 4
-3 -> 
-4 -> 1 2
-
+{1: {4}, 2: {4}, 3: set(), 4: {1, 2}}
 Edges: 2
 Partial symmetries: 75
 Non-isomorphic induced subgraphs: 7
-
-Generated graph:
-1 -> 4
-2 -> 4
-3 -> 4
-4 -> 1 2 3
-
+{1: {4}, 2: {4}, 3: {4}, 4: {1, 2, 3}}
 Edges: 3
 Partial symmetries: 83
 Non-isomorphic induced subgraphs: 6
-
-Generated graph:
-1 -> 3
-2 -> 4
-3 -> 1
-4 -> 2
-
+{1: {3}, 2: {4}, 3: {1}, 4: {2}}
 Edges: 2
 Partial symmetries: 97
 Non-isomorphic induced subgraphs: 5
-
-Generated graph:
-1 -> 3 4
-2 -> 
-3 -> 1 4
-4 -> 1 3
-
+{1: {3, 4}, 2: set(), 3: {1, 4}, 4: {1, 3}}
 Edges: 3
 Partial symmetries: 83
 Non-isomorphic induced subgraphs: 6
-
-Generated graph:
-1 -> 3 4
-2 -> 4
-3 -> 1
-4 -> 1 2
-
+{1: {3, 4}, 2: {4}, 3: {1}, 4: {1, 2}}
 Edges: 3
 Partial symmetries: 71
 Non-isomorphic induced subgraphs: 6
-
-Generated graph:
-1 -> 3 4
-2 -> 4
-3 -> 1 4
-4 -> 1 2 3
-
+{1: {3, 4}, 2: {4}, 3: {1, 4}, 4: {1, 2, 3}}
 Edges: 4
 Partial symmetries: 75
 Non-isomorphic induced subgraphs: 7
-
-Generated graph:
-1 -> 3 4
-2 -> 3 4
-3 -> 1 2
-4 -> 1 2
-
+{1: {3, 4}, 2: {3, 4}, 3: {1, 2}, 4: {1, 2}}
 Edges: 4
 Partial symmetries: 97
 Non-isomorphic induced subgraphs: 5
-
-Generated graph:
-1 -> 3 4
-2 -> 3 4
-3 -> 1 2 4
-4 -> 1 2 3
-
+{1: {3, 4}, 2: {3, 4}, 3: {1, 2, 4}, 4: {1, 2, 3}}
 Edges: 5
 Partial symmetries: 105
 Non-isomorphic induced subgraphs: 6
-
-Generated graph:
-1 -> 2 3 4
-2 -> 1 3 4
-3 -> 1 2 4
-4 -> 1 2 3
-
+{1: {2, 3, 4}, 2: {1, 3, 4}, 3: {1, 2, 4}, 4: {1, 2, 3}}
 Edges: 6
 Partial symmetries: 209
 Non-isomorphic induced subgraphs: 4
